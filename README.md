@@ -1,6 +1,6 @@
-# http-project
+# devmentor
 
-> A Vue.js project
+> Find mentors who are developers
 
 ## Build Setup
 
